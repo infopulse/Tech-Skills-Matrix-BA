@@ -21,12 +21,12 @@ There are 2 options to use this matrix:
    - [Technical & business background](matrix/07.md)
    - [Soft Skills](matrix/08.md)
    - [Contribution to BA practice & company's sucess and recognition](matrix/09.md)
-   - [Certifications](matrix/10.md)   
+   - [Certifications](matrix/10.md)
 
 - Review required skills for each level and category
 - Give yourself honest feedback if you know well enough each skill (In future releases we will provide a self-assessment tool)
 
-We encourage you to use this matrix in your companies to align the skills and knowledge of QA engineers worldwide.
+We encourage you to use this matrix in your companies to align the skills and knowledge of BA engineers worldwide.
 
 ## Rules
 
@@ -35,7 +35,7 @@ As a company we expect that:
 1. every BA Engineer who claims a specific seniority level must have at least 7 basic skill categories not less than this level
 2. every next seniority level includes skills and knowledge of all previous levels
 3. tech skills are generalized to apply to a wide range of engineers
-4. the matrix is used both for internal QA engineers and for [hiring purposes](https://www.infopulse.com/join-us?specialization=9)
+4. the matrix is used both for internal BA engineers and for [hiring purposes](https://www.infopulse.com/join-us?specialization=9)
 
 ## Roadmap
 
