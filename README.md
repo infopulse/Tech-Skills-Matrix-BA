@@ -10,7 +10,7 @@ Soft skills are important as well, but they are not included in this matrix.
 You are welcome to use this matrix as reference in your
 There are 2 options to use this matrix:
 
-1. Open in GitHub pages (recommended): https://victorchei.github.io/Tech-Skills-Matrix-BA
+1. Open in GitHub pages (recommended): https://infopulse.github.io/Tech-Skills-Matrix-BA
 2. Check out every skill category in markdown files: (will be updated)
    - [Types of requirements](matrix/01.md) - Estimations, tasks prioritization, test documentation, test management, risk management
 
