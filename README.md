@@ -12,7 +12,16 @@ There are 2 options to use this matrix:
 
 1. Open in GitHub pages (recommended): https://infopulse.github.io/Tech-Skills-Matrix-BA
 2. Check out every skill category in markdown files: (will be updated)
-   - [Types of requirements](matrix/01.md) - Estimations, tasks prioritization, test documentation, test management, risk management
+   - [Types of requirements](matrix/01.md)
+   - [Requirements elicitation](matrix/02.md)
+   - [Requirements documentation](matrix/03.md)
+   - [Requirements Management](matrix/04.md)
+   - [Product management](matrix/05.md)
+   - [Strategy Analysis & Business Process Automation](matrix/06.md)
+   - [Technical & business background](matrix/07.md)
+   - [Soft Skills](matrix/08.md)
+   - [Contribution to BA practice & company's sucess and recognition](matrix/09.md)
+   - [Certifications](matrix/10.md)   
 
 - Review required skills for each level and category
 - Give yourself honest feedback if you know well enough each skill (In future releases we will provide a self-assessment tool)
