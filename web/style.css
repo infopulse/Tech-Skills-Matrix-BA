@@ -465,17 +465,23 @@ footer {
   padding-bottom: 60px;
 }
 
-.footerLink {
+.footerLinks {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.footerLinks > a {
   font: 400 14px/22px "Open Sans", sans-serif;
   color: var(--color-background);
 }
 
-.footerLink:hover,
-.footerLink:focus {
+.footerLinks > a:hover,
+.footerLinks > a:focus {
   color: var(--color-primary);
 }
 
-.footerLink:active {
+.footerLinks > a:active {
   color: var(--color-secondary);
 }
 
@@ -514,7 +520,7 @@ footer {
     padding-bottom: 80px;
   }
 
-  .footerLink,
+  .footerLinks > a,
   .rightsReservedText {
     font-size: 16px;
   }
