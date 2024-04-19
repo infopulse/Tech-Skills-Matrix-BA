@@ -38,7 +38,7 @@ def convert(file, num):
             end = line.index(']')
             link = line[line.index('(', start) + 1:line.index(')', start)]
             text = line[start + 1:end]
-            line = line.replace(f'[{text}]({link})', f'<a href="{link}">{text}</a>')
+            line = line.replace(f'[{text}]({link})', f'<a rel="nofollow" href="{link}">{text}</a>')
             
         if line.startswith('# '):
             data['header'] = line.strip('#')
