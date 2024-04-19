@@ -35,7 +35,7 @@ As a company we expect that:
 1. every BA Engineer who claims a specific seniority level must have at least 7 basic skill categories not less than this level
 2. every next seniority level includes skills and knowledge of all previous levels
 3. tech skills are generalized to apply to a wide range of engineers
-4. the matrix is used both for internal BA engineers and for [hiring purposes](https://www.infopulse.com/join-us?specialization=9)
+4. the matrix is used both for internal BA engineers and for [hiring purposes](https://www.infopulse.com/join-us?specialization=2)
 
 ## Roadmap
 
